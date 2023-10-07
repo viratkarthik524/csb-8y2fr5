@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://viratkarthik524.github.io/csb-8y2fr5/static/js/main.65a8bc70.chunk.js",
+    "main.js.map": "https://viratkarthik524.github.io/csb-8y2fr5/static/js/main.65a8bc70.chunk.js.map",
+    "runtime-main.js": "https://viratkarthik524.github.io/csb-8y2fr5/static/js/runtime-main.1b583d1b.js",
+    "runtime-main.js.map": "https://viratkarthik524.github.io/csb-8y2fr5/static/js/runtime-main.1b583d1b.js.map",
+    "static/js/2.f1c120b8.chunk.js": "https://viratkarthik524.github.io/csb-8y2fr5/static/js/2.f1c120b8.chunk.js",
+    "static/js/2.f1c120b8.chunk.js.map": "https://viratkarthik524.github.io/csb-8y2fr5/static/js/2.f1c120b8.chunk.js.map",
+    "index.html": "https://viratkarthik524.github.io/csb-8y2fr5/index.html",
+    "precache-manifest.bba47d27eceaf02280b37cd7df16521a.js": "https://viratkarthik524.github.io/csb-8y2fr5/precache-manifest.bba47d27eceaf02280b37cd7df16521a.js",
+    "service-worker.js": "https://viratkarthik524.github.io/csb-8y2fr5/service-worker.js",
+    "static/js/2.f1c120b8.chunk.js.LICENSE.txt": "https://viratkarthik524.github.io/csb-8y2fr5/static/js/2.f1c120b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b583d1b.js",
+    "static/js/2.f1c120b8.chunk.js",
+    "static/js/main.65a8bc70.chunk.js"
+  ]
+}

@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-codesandbox"]=this["webpackJsonpreact-codesandbox"]||[]).push([[0],[,,,function(e,n,t){e.exports=t(4)},function(e,n,t){"use strict";t.r(n);var o=t(0),c=t.n(o),r=t(2);function a(){return"Hello"}t.n(r).a.render(c.a.createElement(a,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.65a8bc70.chunk.js.map
